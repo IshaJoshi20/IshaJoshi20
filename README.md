@@ -9,5 +9,5 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 
 ### My Recent projects 
 [Assignment1](https://github.com/IshaJoshi20/Assignment1)
-
+[Assignment2](https://github.com/IshaJoshi20/Assignment2)
 ### Skills
