@@ -8,7 +8,9 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 - 👨 Know more about me at [My Resume](add your google drive resume link here) 
 
 ### My Recent projects 
+[Project Analysis of Top Colleges](https://github.com/IshaJoshi20/Project--Top-colleges/tree/main)
 [Assignment1](https://github.com/IshaJoshi20/Assignment1)
 [Assignment2](https://github.com/IshaJoshi20/Assignment2)
 [Assignment3](https://github.com/IshaJoshi20/Assignment3)
+
 ### Skills
